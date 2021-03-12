@@ -13,6 +13,7 @@ public class Address {
 	}
 	public void setPincode(int pincode) {
 		this.pincode = pincode;
+		//added here
 	}
 	int pincode;
 	
