@@ -13,6 +13,7 @@ public class Main {
 		//pending toArray and of()
 		//collectors.groupby max  and min done average
 		//collectors .groupby min  and summing statstics
+		//heloe madndm
 		List<Employee> empList=ConstructData.getList();
 		Map<String, Optional<Employee>> result=empList.stream().collect(Collectors.groupingBy(
 				Employee::getCompany, Collectors.reducing((e, e1)->getEmpwithMaxLenght(e,e1))));
