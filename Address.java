@@ -12,7 +12,7 @@ public class Address {
 		return pincode;
 	}
 	public void setPincode(int pincode) {
-		this.city = city;
+		this.road = road;
 		//added here
 	}
 	int pincode;
