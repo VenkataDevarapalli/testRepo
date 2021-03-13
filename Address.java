@@ -13,7 +13,7 @@ public class Address {
 	public int getPincode() {
 		return pincode;
 
-	public void setPincode(int pincodeee) {
+	public void setPincode(int pincode) {
 		this.pincode = pincodeee;
 		//add more
 
