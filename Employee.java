@@ -8,20 +8,20 @@ public class Employee {
 	public String getName() {
 		return name;
 	}
-	public void setName(String name) {
-		this.name = name;
+	public void setName(String namenn) {
+		this.name = namenn;
 	}
 	public int getAge() {
 		return age;
 	}
-	public void setAge(int age) {
-		this.age = age;
+	public void setAge(int agenn) {
+		this.age = agenn;
 	}
 	public int getSalary() {
 		return salary;
 	}
-	public void setSalary(int salary) {
-		this.salary = salary;
+	public void setSalary(int salarypp) {
+		this.salary = salarypp;
 	}
 	public String getCompany() {
 		return company;
