@@ -12,11 +12,9 @@ public class Address {
 	}
 	public int getPincode() {
 		return pincode;
-
-	public void setPincode(int pincode) {
-		this.pincode = pincodeee;
-		//add more
-
+	}
+	public void setPincode(int pincoddd) {
+		this.pincode = pincodepp;
 		//added here
 	}
 	int pincode;
