@@ -8,21 +8,27 @@ public class Employee {
 	public String getName() {
 		return name;
 	}
+
 	public void setName(String namee) {
 		this.name = namee;
+
 	}
 	public int getAge() {
 		//add teow
 		return age;
 	}
+
 	public void setAge(int agee) {
 		this.age = agee;
+
 	}
 	public int getSalary() {
 		return salary;
 	}
-	public void setSalary(int salaryy) {
-		this.salary = salaryy;
+
+	public void setSalary(int salarypp) {
+		this.salary = salarypp;
+
 	}
 	public String getCompany() {
 		return company;
