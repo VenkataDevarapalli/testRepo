@@ -11,7 +11,7 @@ public class Address {
 	public int getPincode() {
 		return pincode;
 	}
-	public void setPincode(int pincodepp) {
+	public void setPincode(int pincoddd) {
 		this.pincode = pincodepp;
 		//added here
 	}
