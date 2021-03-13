@@ -6,7 +6,7 @@ import java.util.List;
 public class ConstructData {
 
 	public static List<Employee> getList() {
-		Address homeAdr = new Address("rajahmundry", 533105);
+		Address homeAdrr = new Address("rajahmundry", 533105);
 		Address offAdr = new Address("bangalore", 560083);
 		List<Address> vAdd = new ArrayList<Address>();
 		vAdd.add(homeAdr);
