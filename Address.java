@@ -2,6 +2,7 @@ package Streams;
 
 public class Address {
 	String city;
+int age;
 	public String getCity() {
 		return city;
 	}

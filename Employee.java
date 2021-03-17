@@ -39,7 +39,7 @@ public class Employee {
 	public List<Address> getAdrList() {
 		return adrList;
 	}
-
+Helo how are you
 	/*
 	 * @Override public int hashCode() { System.out.println("Hashcode"); final int
 	 * prime = 31; int result = 1; result = prime * result + ((name == null) ? 0 :
