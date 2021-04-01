@@ -7,7 +7,7 @@ int age;
 		return city;
 	}
 
-	public void setCity(String citypp) {
+	public void setCity(String cityppppp) {
 		this.city = citypp;
 
 	}
